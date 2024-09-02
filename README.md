@@ -2,7 +2,7 @@
 
 A bash script to bulk export key NBT data from your old Minecraft world files.
 
-Reads level.dat NBT data and useful details via the file system details. Exporting the data as a JSON file per world. In before using the JSON data to create a combined CSV output file.
+Reads level.dat NBT data and some additional information via the file system. Then exporting the data read as a JSON file per each world. After which using the JSON data to create a combined CSV output file.
 
 ### CSV headers
 
